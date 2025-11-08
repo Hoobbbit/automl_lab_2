@@ -1,0 +1,13 @@
+dropped_features
+num_mean_of_vars
+num_mean_kurt
+avg_cat_cardinality
+logreg_f1m
+linsvc_bac
+linsvc_f1m
+linsvc_acc
+knn5_f1m
+knn5_acc
+logreg_bal_bac
+logreg_bal_f1m
+logreg_bal_acc
