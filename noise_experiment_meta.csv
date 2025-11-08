@@ -1,0 +1,3 @@
+n_samples,n_features,n_classes,n_categorical,n_numeric,ratio_samples_per_feature,missing_ratio_overall,missing_col_max,missing_col_min,frac_cols_with_na,num_mean_of_means,num_mean_of_vars,num_mean_skew,num_mean_kurt,class_entropy,majority_class_ratio,avg_cat_cardinality,ratio_num_cat,unique_rows_ratio
+2000,6,10,[],"['att1', 'att2', 'att3', 'att4', 'att5', 'att6']",333.3333333333333,0.0,0.0,0.0,0.0,1052.6997316402774,2353407.4348732415,0.5315671843447335,-0.5362369226243187,3.321928094887362,0.1,0.0,inf,0.944
+2000,6,10,[],"['att1', 'att2', 'att3', 'att4', 'att5', 'att6']",333.3333333333333,0.0,0.0,0.0,0.0,1055.5433020998055,2146153.229516242,0.5617185819877409,-0.25125963978336086,3.3214927468781803,0.103,0.0,inf,0.987

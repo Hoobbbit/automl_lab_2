@@ -1,0 +1,15 @@
+[project]
+name = "automl-lab-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "matplotlib>=3.10.6",
+    "mplcyberpunk>=0.7.6",
+    "pandas>=2.3.2",
+    "seaborn>=0.13.2",
+    "scikit-learn>=1.7.2",
+    "openml>=0.15.1"
+]
